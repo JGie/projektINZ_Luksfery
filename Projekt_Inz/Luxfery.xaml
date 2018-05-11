@@ -1,0 +1,13 @@
+﻿<Window x:Class="Projekt_Inz.Luxfery"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Luxfery" Height="600" Width="800" WindowStartupLocation="CenterOwner">
+    <Grid>
+        <Canvas Loaded="Canvas_Loaded" Width="640" Height="1200" Name="canvas" DataContextChanged="canvas_DataContextChanged">
+            </Canvas>
+
+
+
+
+    </Grid>
+</Window>

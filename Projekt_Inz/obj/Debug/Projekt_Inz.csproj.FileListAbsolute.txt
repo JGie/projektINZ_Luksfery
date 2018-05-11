@@ -1,0 +1,16 @@
+D:\MOJA_INŻ!\Kinect\Projekt_Inz\Projekt_Inz\bin\Debug\Projekt_Inz.exe
+D:\MOJA_INŻ!\Kinect\Projekt_Inz\Projekt_Inz\bin\Debug\Projekt_Inz.pdb
+D:\MOJA_INŻ!\Kinect\Projekt_Inz\Projekt_Inz\obj\Debug\Labels.baml
+D:\MOJA_INŻ!\Kinect\Projekt_Inz\Projekt_Inz\obj\Debug\Luxfery.baml
+D:\MOJA_INŻ!\Kinect\Projekt_Inz\Projekt_Inz\obj\Debug\MainWindow.baml
+D:\MOJA_INŻ!\Kinect\Projekt_Inz\Projekt_Inz\obj\Debug\Labels.g.cs
+D:\MOJA_INŻ!\Kinect\Projekt_Inz\Projekt_Inz\obj\Debug\Luxfery.g.cs
+D:\MOJA_INŻ!\Kinect\Projekt_Inz\Projekt_Inz\obj\Debug\MainWindow.g.cs
+D:\MOJA_INŻ!\Kinect\Projekt_Inz\Projekt_Inz\obj\Debug\App.g.cs
+D:\MOJA_INŻ!\Kinect\Projekt_Inz\Projekt_Inz\obj\Debug\Projekt_Inz_MarkupCompile.cache
+D:\MOJA_INŻ!\Kinect\Projekt_Inz\Projekt_Inz\obj\Debug\Projekt_Inz.g.resources
+D:\MOJA_INŻ!\Kinect\Projekt_Inz\Projekt_Inz\obj\Debug\Projekt_Inz.Properties.Resources.resources
+D:\MOJA_INŻ!\Kinect\Projekt_Inz\Projekt_Inz\obj\Debug\Projekt_Inz.csproj.GenerateResource.Cache
+D:\MOJA_INŻ!\Kinect\Projekt_Inz\Projekt_Inz\obj\Debug\Projekt_Inz.exe
+D:\MOJA_INŻ!\Kinect\Projekt_Inz\Projekt_Inz\obj\Debug\Projekt_Inz.pdb
+D:\MOJA_INŻ!\Kinect\Projekt_Inz\Projekt_Inz\obj\Debug\Projekt_Inz.csprojResolveAssemblyReference.cache
